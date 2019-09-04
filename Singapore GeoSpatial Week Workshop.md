@@ -13,7 +13,7 @@
 
 - **Sign up** [**here**](https://www.openstreetmap.org/)**, if you are just getting started with OpenStreetMap**
 - Remember the Hashtag we are using while uploading chagesets is
-    `**Mapping wheelchair accessible paths #GeoWeek #Grab**` 
+    `Mapping wheelchair accessible paths #GeoWeek #Grab` 
 
 **Introduction to mapping using iD editor**
 I’m sure you all have a lot of questions if you are new to OpenStreetMap, let’s take them one at a time:
