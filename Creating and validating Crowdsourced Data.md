@@ -1,3 +1,5 @@
+# Creating and validating Crowdsourced Data
+
 Creating crowdsourced data is an interesting process but to make sure that the data we create is accurate, we'd have to validate them for their accuracy and correctness. This workshop will focus on sharing points and tips on validating the data and changeset we create with the community. 
 Agenda: 
 
