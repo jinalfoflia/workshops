@@ -1,13 +1,5 @@
 # Mapping wheelchair accessible places on OpenStreetMap
 
-## Agenda
-
-**2 pm - 2:30 pm:** Introduction to OpenStreetMap and Grab
-**2:30 pm - 3:15 pm:** Introduction to mapping on OpenStreetMap and mapping Wheelchair accessible attributes
-**3:15 pm - 3:30 pm:** Tea/Coffee and Snacks break
-**3:30 pm - 5:00 pm:** Mapping in the Redhill area (TBD)
-
-
 ## Getting started
 
 
@@ -49,17 +41,7 @@ First log onto your OSM account at:
 https://www.openstreetmap.org/#map=18/21.30768/-157.83679
 
 
-Then please go to: https://tasks.klldev.org/project/60
-
-Press login and Grant Access
-
-![](https://lh4.googleusercontent.com/HzNew9-9pN2W-MKgkg3bn3hsfnSwXxt0D9-haN0zv7_E1xNGNJKbeLoOetteh4eb-Ah0qO-sx7Y_S5gPrmKgEiSW1dNyCBRoo3O1gYkmPHSUm4Lzfrm5RvuvUmnbpCdka2D1BOix)
-
-
-Press Start Mapping
-
-![](https://lh5.googleusercontent.com/2bQG2fe7BXTfVj6Jr4c_oWlm55_WkY5ICtRBZBsUU4i5XMcQ-dCvk1qAOTDJEEUgUa7ZZIcbiPLr3WIccEb2oFWYuJCInlvmmoGquohsujsRfz2qxF8fr80-FMhUl1dirMkIUU57)
-
+Then please go to: your neighbourhood or your favourite place to map
 
 Start iD editor
 Quick Introduction to OSM through tasking manager
@@ -101,7 +83,7 @@ Note: **There is currently no default value** for wheelchair access. The **wheel
 - Mapbox 
 - Esri World Imagery
 
-Let’s go to tasking manager and do some hands-on mapping 🙂 
+Let’s do some hands-on mapping 🙂 
 
 We need to look out for the following:
 
