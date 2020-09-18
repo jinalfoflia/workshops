@@ -1,7 +1,6 @@
-# Mapping wheelchair accessible places on OpenStreetMap
+# Mapping wheelchair accessible places and COVID essentials on OpenStreetMap
 
 ## Getting started
-
 
 - **Sign up** [**here**](https://www.openstreetmap.org/)**, if you are just getting started with OpenStreetMap**
 - Remember the Hashtag we are using while uploading chagesets is
