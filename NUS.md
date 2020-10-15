@@ -1,4 +1,4 @@
-# OpenStreetMap - Contribute, extract, analyse and visualise
+# OpenStreetMap - Contribute, validate, extract, analyse and visualise
 
 
 **16th of Oct** | **NUS, Singapore**
@@ -26,6 +26,42 @@ Roads are added with the tag `highway=*`
 - Service roads  `highway=service` - http://wiki.openstreetmap.org/wiki/Tag:highway%3Dservice
 - Paths `highway=path` - http://wiki.openstreetmap.org/wiki/Tag:highway%3Dpath
 - Unclassified road`highway=unclassified` - http://wiki.openstreetmap.org/wiki/Tag:highway%3Dunclassified
+
+## Validate
+
+![](https://paper-attachments.dropbox.com/s_CE04567B3697A0F3F978B75306EA9E5323FFA473E314656B8058B743A91AE0E3_1567729482536_image.png)
+
+![](https://paper-attachments.dropbox.com/s_CE04567B3697A0F3F978B75306EA9E5323FFA473E314656B8058B743A91AE0E3_1567729495970_image.png)
+
+![](https://paper-attachments.dropbox.com/s_CE04567B3697A0F3F978B75306EA9E5323FFA473E314656B8058B743A91AE0E3_1567729725837_image.png)
+
+![](https://paper-attachments.dropbox.com/s_CE04567B3697A0F3F978B75306EA9E5323FFA473E314656B8058B743A91AE0E3_1567729745708_image.png)
+
+![](https://paper-attachments.dropbox.com/s_CE04567B3697A0F3F978B75306EA9E5323FFA473E314656B8058B743A91AE0E3_1567729871027_image.png)
+
+
+[**Vandalism**](https://wiki.openstreetmap.org/wiki/Vandalism) is intentionally ignoring the consensus norms of the OpenStreetMap community. Simple mistakes and editing errors are not vandalism but may need to be reverted using some of the same tools that are used for vandalism.
+
+[**OSM Changeset Analyzer**](http://osmcha.mapbox.com/) or OSMCha is a tool to filter and analyze changesets on OpenStreetMap using the [changeset metadata](https://www.openstreetmap.org/api/0.6/changeset/41775489/download). The tool has a live listing of every changeset on the map, flags potentially suspicious edits and has various filters to find changesets that match a certain criteria. 
+
+Let’s do a hands-on session on how to use OSMCha 
+
+### Other tools for validation
+- [OSM-Comments](https://www.mapbox.com/osm-comments/)
+- [MapRoulette](http://www.maproulette.org/)
+- [HDYC](https://hdyc.neis-one.org/)
+- [WHODIDIT](http://simon04.dev.openstreetmap.org/whodidit/)
+- [Who’s That](http://whosthat.osmz.ru/)
+- [Result Maps](http://resultmaps.neis-one.org/)
+- [Missing Maps](https://www.missingmaps.org/users/)
+- [Live OSM user stats](http://www.gryph.de:8080/)
+- [OSM deep history](https://osmlab.github.io/osm-deep-history)
+- [OSM History viewer](http://osmhv.openstreetmap.de/index.jsp)
+- [OSM inspector](https://tools.geofabrik.de/osmi/)
+- [OSMOSE](http://osmose.openstreetmap.fr/en/map/)
+- [Overpass](http://overpass-turbo.eu/)
+
+
 
 ## Extract
 
